@@ -1,0 +1,37 @@
+=================================================================
+
+ ##### Super Mario Heaven / versão 06012007 #####
+
+   Desenvolvido por Marco Santos Souza
+   http://www.inf.ufsc.br/~sms
+ 
+   Envie comentários e relatórios de erro para sms@newsite.com.br
+
+=================================================================
+
+ # Software utilizado:
+
+   - Eclipse SDK 3.2.1
+     http://www.eclipse.org
+
+   - GIMP 2.2
+     http://www.gimp.org
+
+   - Audacity 1.2.4
+     http://audacity.sourceforge.net
+
+=================================================================
+
+ # Sobre o jogo:
+
+   - A presente versão contém apenas uma fase. Em vista disso, o
+	 objetivo do jogo consiste em obter o maior número de pontos.
+
+   - A pontuação é calculada pela seguinte fóruma:
+	 PONTUACAO = (999 - TEMPO) * NUMERO_DE_MOEDAS
+     Porém, se você coletar TODAS as moedas presentes no cenário,
+	 o valor 10000 é adicionado a isso.
+
+   - Há somente 50 moedas no cenário.
+
+=================================================================
